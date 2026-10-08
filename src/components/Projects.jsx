@@ -33,7 +33,7 @@ const projects = [
       "AI-powered application that generates structured exam notes, summaries, diagrams and charts.",
     tech: ["React", "Node.js", "Gemini", "MongoDB"],
     github: "https://github.com/JashBheda27/ai-exam-notes-generator",
-    live: "https://your-live-demo.com",
+    live: "https://examnotes-ai.vercel.app/",
   },
 ];
 
